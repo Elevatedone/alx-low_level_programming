@@ -13,7 +13,6 @@ int main(void)
 {
 	char lowercaseAlphabet;
 		
-
 	for (lowercaseAlphabet = 'a'; lowercaseAlphabet <= 'z'; lowercaseAlphabet++)
 
 		putchar(lowercaseAlphabet);
