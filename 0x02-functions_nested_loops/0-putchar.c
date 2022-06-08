@@ -2,7 +2,7 @@
  * File: 0-putchar.c
  * Auth: omowunmi oluwatosin   
  */
-#include "main.h"
+#include"main.h"
 /*
  * main - Prints "_putchar" followed by a new line. 
  * Return: Always 0.
