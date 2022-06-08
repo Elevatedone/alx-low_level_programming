@@ -1,7 +1,7 @@
 /*
  *  File: 1-alphabet.c
  *  Auth: omowunmi oluwatosin
-  */
+ */
 
 #include "main.h"
 
