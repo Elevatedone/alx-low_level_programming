@@ -7,8 +7,7 @@
 
 /*
  * main - Prints the sum of even-valued Fibonacci sequence
- *  terms not exceeding 4000000.
- *    
+ *  terms not exceeding 4000000. 
  *  Return: Always 0.
  */
 int main(void)
@@ -27,7 +26,7 @@ int main(void)
 
 		fib1 = fib2;
 		fib2 = fibsum;
-																}
+											}
 	printf("%.0f\n", tot_sum);
 
 	return (0);

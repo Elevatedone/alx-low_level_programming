@@ -1,6 +1,6 @@
 /*
  * File: 9-times_table.c
- * Auth: Brennan D Baraban
+ * Auth: omowunmi oluwatosin
  */
 
 #include "main.h"
@@ -25,8 +25,8 @@ void times_table(void)
 
 			if (prod <= 9)
 				_putchar(' ');
-																		else
-				_putchar((prod / 10) + '0');
+			else
+		     	_putchar((prod / 10) + '0');
 
 			_putchar((prod % 10) + '0');
 		}
